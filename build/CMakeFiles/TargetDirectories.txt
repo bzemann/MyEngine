@@ -1,0 +1,8 @@
+/Users/bz/Documents/code/cpp/MyEngine/build/CMakeFiles/edit_cache.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/CMakeFiles/rebuild_cache.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/Engine/CMakeFiles/MyEngine.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/Engine/CMakeFiles/edit_cache.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/Engine/CMakeFiles/rebuild_cache.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/Sandbox/CMakeFiles/Sandbox.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/Sandbox/CMakeFiles/edit_cache.dir
+/Users/bz/Documents/code/cpp/MyEngine/build/Sandbox/CMakeFiles/rebuild_cache.dir

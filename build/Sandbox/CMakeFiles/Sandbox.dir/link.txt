@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Sandbox.dir/main_sandbox.cpp.o -o Sandbox  -Wl,-rpath,/opt/homebrew/lib ../Engine/libMyEngine.a /opt/homebrew/lib/libglfw.3.4.dylib -framework OpenGL
